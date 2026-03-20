@@ -1,2 +1,3 @@
-# simple-microservice-ur0j
+# Simple Microservice Ur0J
+
 A repository to test GitHub automation for issue management.
